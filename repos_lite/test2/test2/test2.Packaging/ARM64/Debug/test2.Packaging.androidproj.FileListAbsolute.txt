@@ -1,0 +1,7 @@
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\test2.apk.recipe
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\test2.apk.recipe.merged
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\Package\AndroidManifest.xml
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\FileStringReplace.incremental
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\test2.apk
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\test2.lastsuccessfuldeploy
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM64\Debug\test2.Packaging.androidprojAssemblyReference.cache

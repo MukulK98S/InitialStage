@@ -1,0 +1,8 @@
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\test2.Packaging.androidprojAssemblyReference.cache
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\test2.apk.recipe
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\test2.apk.recipe.merged
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\FileStringReplace.incremental
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\test2.apk
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\test2.lastsuccessfuldeploy
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libtest2.so
+C:\Users\mukul\source\repos\test2\test2\test2.Packaging\ARM\Debug\Package\AndroidManifest.xml

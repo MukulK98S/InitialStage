@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.c
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp__PlaySoundW@12 referenced in function _WindowProc@16
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\mukul\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 2 unresolved externals
