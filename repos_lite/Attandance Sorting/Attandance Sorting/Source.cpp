@@ -10,20 +10,17 @@
 typedef unsigned long long ULL;
 
 int main() {
-	void* pTmp = NULL;
 	int tmp = 0;
 	std::fstream inputProcessingFile,outputFile;
 	std::stringstream strBuff;
 	std::string buf,dir;
 	std::vector<int> rollnumbers;
-	//rollnumbers.resize(4);
 	ULL num;
 	char cDir[1024];
 
 	pTmp = _getcwd(cDir, 1024);
-	//std::cout << cDir;
 	dir = cDir;
-	inputProcessingFile.open(dir + "\\test.txt"/*"inputProcessing.txt"*/, std::ios::in);
+	inputProcessingFile.open(dir + "\\inputProcessing.txt", std::ios::in);
 	outputFile.open(dir + "\\outputFile.txt", std::ios::out | std::ios::trunc);
 	
 	std::cout << "Present (1 - 50)\n";
@@ -39,8 +36,6 @@ int main() {
 			}
 			rollnumbers.push_back(num);
 			std::cout << buf << ", ";
-			//outputFile << num;
-			//outputFile << ",";
 		}
 	}
 	std::cout << std::endl;
@@ -53,6 +48,6 @@ int main() {
 	}
 	outputFile.close();
 	inputProcessingFile.close();
-	//tmp = _getch();
+	tmp = _getch();
 	return 0;
 }
